@@ -1,3 +1,5 @@
+                                      [![My Skills](https://skillicons.dev/icons?i=aws,bash,terraform,)]
+
 # 🚀 AWS Billing Alert Terraform Module  
 
 
@@ -56,7 +58,7 @@ Welcome to the **AWS Billing Alert Terraform module!** This module helps you set
 3. Clone the repository:  
 
    ```bash  
-   git clone https://github.com/osereme-project/aws-billing-alert-terraform.git  
+   git clone https://github.com/Grace240/Aws-Billing-Alert.git  
    ```  
 
 4. Move into the directory:  
@@ -156,12 +158,12 @@ Here’s an example configuration:
 
 ```hcl  
 module "billing_alert" {  
-  source                     = "github.com/osereme-project/aws-billing-alert-terraform"  
+  source                     = "github.com/Grace240/Aws-Billing-Alert"  
   aws_region                 = "us-west-2"  
   alert_thresholds           = [100, 150, 200]  
   email_endpoints            = ["your-email@example.com", "accounting@example.com"]  
   auto_confirm_subscription  = true  
-  currency                   = "CAD"  
+  currency                   = "USD"  
 }  
 ```  
 
