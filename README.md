@@ -1,4 +1,4 @@
-                                      [![My Skills](https://skillicons.dev/icons?i=aws,bash,terraform,)]
+                                      [![My Skills](https://skillicons.dev/icons?i=aws,bash,terraform,)](https://skillicons.dev)
 
 # 🚀 AWS Billing Alert Terraform Module  
 
