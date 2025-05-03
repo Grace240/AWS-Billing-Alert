@@ -67,7 +67,7 @@ Welcome to the **AWS Billing Alert Terraform module!** This module helps you set
 4. Move into the directory:  
 
    ```bash  
-   cd aws-billing-alert-terraform  
+   cd Aws-Billing-Alert  
    ```  
 
 ---
